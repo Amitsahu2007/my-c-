@@ -1,6 +1,5 @@
 # my-c-
 #include<stdio.h>
-int main(){
-
+inx main(){
 
 return }
